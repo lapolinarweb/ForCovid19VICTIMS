@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: Yanna'$ Collection
-labels: good first issue
-assignees: lapolinar
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
